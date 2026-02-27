@@ -4,9 +4,9 @@ Coaching call transcripts with Abby, automatically fetched from Fathom.
 
 ## Contents
 
-8 transcripts from "Abby ~Coaching call" meetings, spanning:
+17 transcripts from Abby coaching calls, spanning:
 - **Latest:** 2026-02-09
-- **Earliest:** 2025-12-15
+- **Earliest:** 2025-08-23
 
 ## Format
 
